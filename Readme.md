@@ -9,3 +9,6 @@ https://arxiv.org/abs/2205.14135
 
 FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning
 https://arxiv.org/abs/2307.08691
+
+Flux
+https://i.redd.it/7n3ix8do9vgd1.png
