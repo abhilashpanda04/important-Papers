@@ -31,3 +31,15 @@ https://arxiv.org/abs/2403.04652
 
 Large Language Models: A Survey
 https://arxiv.org/abs/2402.06196
+
+GPT-4 Technical Report
+https://arxiv.org/abs/2303.08774
+
+Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+https://arxiv.org/pdf/2312.00752
+
+Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
+https://arxiv.org/abs/2405.21060
+
+Jamba: A Hybrid Transformer-Mamba Language Model
+https://arxiv.org/pdf/2403.19887
