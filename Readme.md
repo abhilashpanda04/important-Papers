@@ -24,10 +24,10 @@ A collection of research papers related to large language models and attention m
 
 | Title                                                                 | Link                                                                 |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Efficient Memory Management for Large Language Model Serving with PagedAttention [VLLM] | [arXiv:2309.06180](https://arxiv.org/abs/2309.06180)                 |
-| Attention Is All You Need [Attention paper]                           | [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)                 |
-| FlashAttention                                                        | [arXiv:2205.14135](https://arxiv.org/abs/2205.14135)                 |
-| FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning | [arXiv:2307.08691](https://arxiv.org/abs/2307.08691)                 |
+| Efficient Memory Management for Large Language Model Serving with PagedAttention [VLLM] | arXiv:2309.06180                 |
+| Attention Is All You Need [Attention paper]                           | arXiv:1706.03762                 |
+| FlashAttention                                                        | arXiv:2205.14135                 |
+| FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning | arXiv:2307.08691                 |
 | Flux                                                                  | Image                         |
 | LLama 3.1 Herds of models                                             | Meta AI |
 | ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT | arXiv:2004.12832                 |
